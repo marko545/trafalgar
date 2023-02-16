@@ -315,6 +315,7 @@ div.service-card p {
   margin-top: 270px;
   flex-wrap: wrap;
   margin-bottom: 60px;
+  width: 1273px;
 }
 
 .leadingText p {
@@ -326,7 +327,7 @@ div.service-card p {
 }
 
 .leadingText {
-  width: 445px;
+  width: 486px;
   height: auto;
   margin-top: 57px;
 }
@@ -374,7 +375,10 @@ div.service-card p {
   margin-top: 270px;
   flex-wrap: wrap;
   margin-bottom: 60px;
+  width: 1156px;
+  
 }
+
 
 .downloadText p {
   font-style: normal;
@@ -382,13 +386,15 @@ div.service-card p {
   font-size: 18px;
   line-height: 30px;
   color: #7d7987;
-  margin-left: auto;
+ 
+  
 }
 
 .downloadText {
-  width: 445px;
+  width: 420px;
   height: auto;
   margin-top: 36px;
+  
 }
 
 .download h4 {
@@ -397,6 +403,7 @@ div.service-card p {
   font-size: 36px;
   line-height: 56px;
   margin-left: auto;
+  margin-right: auto;
 }
 
 #download-btn {
@@ -650,4 +657,34 @@ section:nth-of-type(4) h4 {
 span.swiper-pagination-bullet {
   width: 10px;
   height: 10px;
+}
+
+#viewAllButton {
+  background: white;
+  border-radius: 55px;
+  width: 200px;
+  height: 56px;
+  border: 1.4px solid #458ff6;
+  border-radius: 55px;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  color: #458ff6;
+  cursor: pointer;
+  font-weight: 700;
+  font-size: 18px;
+  
+  
+  margin-left: 460px;
+  margin-top: 72px;
+
+  
+}
+
+section.blog-section {
+width: 1120px;
+margin-left: auto;
+margin-right: auto;
+
 }
